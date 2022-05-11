@@ -1,4 +1,5 @@
 # ☄️ README.md from [@eduym17](https://github.com/eduym17)
+<img width="1247" alt="image" src="https://user-images.githubusercontent.com/96452418/167959748-63ee0466-dacf-473a-8703-c7899aa56e55.png">
 
 ## About the project
 
