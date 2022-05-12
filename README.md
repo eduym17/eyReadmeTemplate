@@ -168,9 +168,3 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - Etc.
 <p align="right">(<a href="#top">Back to top</a>)</p>
-
-## License
-
-This project is `MIT` licensed.
-<p align="right">(<a href="#top">Back to top</a>)</p>
-
