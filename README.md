@@ -30,7 +30,7 @@ This sections sould only list major frameworks or libraries used to build this p
 [<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />][ReactRouter] <br/>
 [<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />][ReduxJS] <br/>
 [<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />][TailwindCSS] <br/>
-[<img src="https://img.shields.io/badge/Vite-bd34fe?style=for-the-badge&logo=vite&logoColor=white" />][ViteJS] <br/>
+[<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />][ViteJS] <br/>
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][NodeJS] <br/>
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][MongoDB] <br/>
 [<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />][VueJS] <br/>
