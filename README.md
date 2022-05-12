@@ -1,6 +1,20 @@
 # ☄️ README.md from [@eduym17](https://github.com/eduym17)
 <img width="1247" alt="image" src="https://user-images.githubusercontent.com/96452418/167959748-63ee0466-dacf-473a-8703-c7899aa56e55.png">
 
+<p align=center>
+     <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node%20js-16.x.x-339933?style=for-the-badge&logo=node.js&labelColor=20232a" /></a>
+     <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express%20js-4.18.x-000000?style=for-the-badge&logo=express&labelColor=20232a" /></a>
+     <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-8.x.x-CB3837?style=for-the-badge&logo=npm&labelColor=20232a" /></a>
+     <a href="https://classic.yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/yarn-4.x.x-2C8EBB?style=for-the-badge&logo=yarn&labelColor=20232a" /></a>
+     <a href="https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository" target="_blank"><img src="https://img.shields.io/badge/license-CHANGE-orange?style=for-the-badge&logo=github&labelColor=20232a" /></a>
+</p>
+
+[NodeJS]: https://nodejs.org/
+[ExpressJS]: https://expressjs.com/
+[NPM]: https://www.npmjs.com/
+[Yarn]: https://classic.yarnpkg.com/
+[License]: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+
 ## About the project
 
 Brief repository description.
@@ -31,8 +45,8 @@ This sections sould only list major frameworks or libraries used to build this p
 [<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />][ReduxJS] <br/>
 [<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />][TailwindCSS] <br/>
 [<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />][ViteJS] <br/>
-[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][NodeJS] <br/>
-[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][MongoDB] <br/>
+[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />][NodeJS] <br/>
+[<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />][MongoDB] <br/>
 [<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />][VueJS] <br/>
 [<img src="https://img.shields.io/badge/vuerouter-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />][VueRouter] <br/>
 [<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />][Bootstrap] <br/>
@@ -44,7 +58,6 @@ This sections sould only list major frameworks or libraries used to build this p
 [ReduxJS]: https://redux.js.org/
 [TailwindCSS]: https://tailwindcss.com/
 [ViteJS]: https://vitejs.dev/
-[NodeJS]: https://nodejs.org/
 [MongoDB]: https://www.mongodb.com/
 [VueJS]: https://vuejs.org/
 [VueRouter]: https://router.vuejs.org/
@@ -59,14 +72,10 @@ This sections sould only list major frameworks or libraries used to build this p
 To get a local copy and run this project follow the next steps.
 
 ### Prerequisites
-node
-  ```sh
-  download and install, v16.x
-  ```
 
 npm
   ```sh
-  npm install, v8.x
+  npm install
   ```
 
 ### Setup
@@ -134,13 +143,11 @@ Make a pull request and when approved and merged the changes will show up on web
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github-eduym17]
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter-eduym17]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin-eduym17]
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram-eduym17]
 [<img src="https://img.shields.io/badge/Mail-00C300?style=for-the-badge&logo=gmail&logoColor=white" />][mail-eduym17]
 
 [github-eduym17]: https://github.com/eduym17
 [twitter-eduym17]: https://twitter.com/Edu_YM
 [linkedin-eduym17]: https://www.linkedin.com/in/eduardoym/
-[telegram-eduym17]: https://t.me/EduYM
 [mail-eduym17]: mailto:eduardo_yanez@live.com.mx
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
