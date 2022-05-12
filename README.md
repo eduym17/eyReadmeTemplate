@@ -9,12 +9,6 @@
      <a href="https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository" target="_blank"><img src="https://img.shields.io/badge/license-CHANGE-orange?style=for-the-badge&logo=github&labelColor=20232a" /></a>
 </p>
 
-[NodeJS]: https://nodejs.org/
-[ExpressJS]: https://expressjs.com/
-[NPM]: https://www.npmjs.com/
-[Yarn]: https://classic.yarnpkg.com/
-[License]: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
-
 ## About the project
 
 Brief repository description.
@@ -58,12 +52,17 @@ This sections sould only list major frameworks or libraries used to build this p
 [ReduxJS]: https://redux.js.org/
 [TailwindCSS]: https://tailwindcss.com/
 [ViteJS]: https://vitejs.dev/
+[NodeJS]: https://nodejs.org/
 [MongoDB]: https://www.mongodb.com/
 [VueJS]: https://vuejs.org/
 [VueRouter]: https://router.vuejs.org/
 [Bootstrap]: https://getbootstrap.com/
 [Axios]: https://github.com/axios/axios
 [PostgresQL]: https://www.postgresql.org/
+[ExpressJS]: https://expressjs.com/
+[NPM]: https://www.npmjs.com/
+[Yarn]: https://classic.yarnpkg.com/
+[License]: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 <!-- more badges here: https://github.com/Ileriayo/markdown-badges || https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
