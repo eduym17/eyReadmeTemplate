@@ -1,13 +1,13 @@
 # ☄️ README.md from [@eduym17](https://github.com/eduym17)
 <img width="1247" alt="image" src="https://user-images.githubusercontent.com/96452418/167959748-63ee0466-dacf-473a-8703-c7899aa56e55.png">
 
-<p align=center>
+<div align=center>
      <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node%20js-16.x.x-339933?style=for-the-badge&logo=node.js&labelColor=20232a" /></a>
      <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express%20js-4.18.x-000000?style=for-the-badge&logo=express&labelColor=20232a" /></a>
      <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-8.x.x-CB3837?style=for-the-badge&logo=npm&labelColor=20232a" /></a>
      <a href="https://classic.yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/yarn-4.x.x-2C8EBB?style=for-the-badge&logo=yarn&labelColor=20232a" /></a>
      <a href="https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository" target="_blank"><img src="https://img.shields.io/badge/license-CHANGE-orange?style=for-the-badge&logo=github&labelColor=20232a" /></a>
-</p>
+</div>
 
 ## About the project
 
