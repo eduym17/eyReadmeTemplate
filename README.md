@@ -146,7 +146,7 @@ Make a pull request and when approved and merged the changes will show up on web
 
 [github-eduym17]: https://github.com/eduym17
 [twitter-eduym17]: https://twitter.com/Edu_YM
-[linkedin-eduym17]: https://www.linkedin.com/in/eduardoym/
+[linkedin-eduym17]: https://www.linkedin.com/in/eduym17/
 [mail-eduym17]: mailto:eduardo_yanez@live.com.mx
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
