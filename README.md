@@ -1,5 +1,10 @@
-# ☄️ README.md from [@eduym17](https://github.com/eduym17)
+# ☄️ README.md template from [@eduym17](https://github.com/eduym17)
 <img width="1247" alt="image" src="https://user-images.githubusercontent.com/96452418/167959748-63ee0466-dacf-473a-8703-c7899aa56e55.png">
+
+## Content
+<img width="1247" alt="image" src="https://github.com/eduym17/eyReadmeTemplate/assets/96452418/79fae5bf-1ded-4fce-99bd-6579d586ed42">
+<br/>
+<br/>
 
 <div align=center>
      <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node%20js-16.x.x-339933?style=for-the-badge&logo=node.js&labelColor=20232a" /></a>
